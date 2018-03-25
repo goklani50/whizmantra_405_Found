@@ -1,4 +1,4 @@
-# This is a solution to problem statement by wizmantra at Hackfest'18 IIT (ISM) Dhanbad
+# This is a solution to problem statement by whizmantra at Hackfest'18 IIT (ISM) Dhanbad
 
 The challenge primarily has two parts.
 1) The first part involves image processing. There are exam papers. Each paper has 30
